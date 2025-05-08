@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "marks": {
+        "physics": 85,
+        "chemistry": 78,
+        "maths": 92
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "marks": {
+        "physics": 74,
+        "chemistry": 81,
+        "maths": 88
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "marks": {
+        "physics": 90,
+        "chemistry": 89,
+        "maths": 94
+      }
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "marks": {
+        "physics": 67,
+        "chemistry": 72,
+        "maths": 70
+      }
+    },
+    {
+      "id": 5,
+      "name": "Eve",
+      "marks": {
+        "physics": 95,
+        "chemistry": 91,
+        "maths": 98
+      }
+    }
+  ]
+}

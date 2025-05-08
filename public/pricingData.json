@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$9/month",
+    "description": "Ideal for individuals getting started with essential features.",
+    "features": ["1 User", "5 Projects", "Email Support"]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": "$29/month",
+    "description": "Perfect for small teams needing more collaboration and tools.",
+    "features": [
+      "5 Users",
+      "Unlimited Projects",
+      "Priority Email Support",
+      "Advanced Analytics",
+      "Custom Integrations"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Enterprise",
+    "price": "$99/month",
+    "description": "Custom solutions for large organizations with premium support.",
+    "features": [
+      "Unlimited Users",
+      "Unlimited Projects",
+      "Dedicated Account Manager",
+      "Custom Integrations",
+      "Advanced Security",
+      "1TB Storage",
+      "24/7 Phone & Email Support"
+    ]
+  }
+]
